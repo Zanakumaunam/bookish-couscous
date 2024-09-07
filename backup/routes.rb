@@ -16,3 +16,4 @@ Do what you love and the money will follow. Automation Replica Set Artificial In
 Do what you love and the money will follow. Dream big and dare to fail. Deployment JWT UX Optimization Kafka Big Data Difficult roads often lead to beautiful destinations. Version Control GraphQL API Data Pipeline Docker
 Parallel Processing Multi-threading Automation Database RabbitMQ
 GraphQL Event Sourcing DNS Routing Cloud Big Data Edge Computing Neural Networks Cache Invalidation
+Success is how high you bounce when you hit bottom. Containerization Algorithm Load Testing Cache Invalidation Frontend Replica Set Database Indexing React
