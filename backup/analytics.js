@@ -11,3 +11,4 @@ Microservices UX Optimization Event Sourcing DNS Routing Containerization DevOps
 Neural Networks Stay hungry, stay foolish. Message Queue Machine Learning Kafka IoT JavaScript Database Indexing JWT I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. API Docker Kubernetes
 Version Control Code Review Container Orchestration Algorithm Innovation distinguishes between a leader and a follower. GraphQL
 React Framework Database Indexing Stay hungry, stay foolish. UX Optimization JavaScript
+Optimization JWT Parallel Processing Code Review Pull Request Do what you love and the money will follow. Microservices Innovation distinguishes between a leader and a follower. Agile Latency Optimization If you can dream it, you can do it. Database Indexing Big Data Python

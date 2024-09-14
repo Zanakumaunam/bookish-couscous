@@ -10,3 +10,4 @@ Data Pipeline I find that the harder I work, the more luck I seem to have. Repli
 Cloud Message Queue DNS Routing I find that the harder I work, the more luck I seem to have. Artificial Intelligence CI/CD Load Testing Blockchain Great things never come from comfort zones. Agile WebSockets
 If you can dream it, you can do it. Act as if what you do makes a difference. It does. UX Optimization Security A/B Testing Data Science Artificial Intelligence Difficult roads often lead to beautiful destinations. Event Sourcing Dream big and dare to fail. Python
 Success is not in what you have, but who you are. Multi-threading Scalability RabbitMQ Machine Learning
+NLP Do what you love and the money will follow. Sharding OAuth Neural Networks Performance The only way to do great work is to love what you do. API Gateway DNS Routing
