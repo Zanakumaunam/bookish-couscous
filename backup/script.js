@@ -9,3 +9,4 @@ Zero Downtime Deployment Machine Learning Kubernetes Success is not in what you 
 Performance Database The only way to do great work is to love what you do. Artificial Intelligence Database Indexing JavaScript Success is not in what you have, but who you are. Microservices Framework Work hard in silence, let your success be your noise. If you can dream it, you can do it.
 Happiness is not something ready made. It comes from your own actions. Containerization DNS Routing Success is how high you bounce when you hit bottom. Frontend API DevOps Deployment Pull Request
 RabbitMQ Content Delivery Network Edge Computing Success is how high you bounce when you hit bottom. Monitoring Cloud Act as if what you do makes a difference. It does. Backend Code Review Version Control Cloud Functions Agile GraphQL
+OAuth Great things never come from comfort zones. Serverless Big Data Act as if what you do makes a difference. It does. Security Performance A/B Testing
