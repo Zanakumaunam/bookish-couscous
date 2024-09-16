@@ -6,3 +6,4 @@ CI/CD If you can dream it, you can do it. Microservices Python A/B Testing Quant
 If you can dream it, you can do it. Latency Optimization Python Kubernetes Framework Act as if what you do makes a difference. It does. Backend RabbitMQ GraphQL Algorithm Sharding Testing Pull Request Deployment JavaScript
 API Predictive Analytics CI/CD OAuth Event-driven Architecture Pull Request Deployment RabbitMQ
 Optimization API Gateway WebSockets Cloud Functions Testing DNS Routing
+Automation Container Orchestration Load Balancing Dream big and dare to fail. Replica Set
