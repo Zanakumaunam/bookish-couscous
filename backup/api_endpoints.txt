@@ -7,3 +7,4 @@ IoT API Neural Networks Data Pipeline Code Review Python Act as if what you do m
 Predictive Analytics Framework Container Orchestration Sharding Lambda Functions Great things never come from comfort zones.
 CI/CD Logging OAuth Act as if what you do makes a difference. It does. IoT Sharding Edge Computing Version Control Innovation distinguishes between a leader and a follower. API
 Logging DevOps Edge Computing Kafka Neural Networks
+Success usually comes to those who are too busy to be looking for it. JWT Load Testing Don't be afraid to give up the good to go for the great. API Frontend Database
