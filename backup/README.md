@@ -13,3 +13,4 @@ Backend Multi-threading JavaScript Difficult roads often lead to beautiful desti
 JavaScript API Gateway Data Pipeline Docker OAuth Code Review Agile Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm Backend Parallel Processing Load Balancing
 Container Orchestration Difficult roads often lead to beautiful destinations. GraphQL Version Control Distributed Systems WebSockets
 Frontend Scalability Event-driven Architecture Automation CI/CD Database Indexing
+Database Content Delivery Network Database Indexing JWT Simplicity is the ultimate sophistication. Security NLP Do what you love and the money will follow. Load Balancing Sharding Kubernetes Optimization Zero Downtime Deployment
