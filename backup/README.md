@@ -12,3 +12,4 @@ Performance Latency Optimization Content Delivery Network Logging DevOps Blockch
 Backend Multi-threading JavaScript Difficult roads often lead to beautiful destinations. Scalability Database Indexing Logging Blockchain Serverless Event-driven Architecture Data Pipeline Framework
 JavaScript API Gateway Data Pipeline Docker OAuth Code Review Agile Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm Backend Parallel Processing Load Balancing
 Container Orchestration Difficult roads often lead to beautiful destinations. GraphQL Version Control Distributed Systems WebSockets
+Frontend Scalability Event-driven Architecture Automation CI/CD Database Indexing

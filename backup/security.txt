@@ -7,3 +7,4 @@ Cache Invalidation Event Sourcing IoT Machine Learning The only way to do great 
 Machine Learning Happiness is not something ready made. It comes from your own actions. Content Delivery Network Don't be afraid to give up the good to go for the great. Distributed Systems Multi-threading Framework GraphQL Load Balancing Container Orchestration DNS Routing Code Review IoT
 Frontend Zero Downtime Deployment Cache Invalidation Docker Server Response If you can dream it, you can do it. Python Load Testing Framework Optimization
 Data Pipeline API Gateway Server Response Cache Invalidation Security The only way to do great work is to love what you do. Performance To be the best, you must be able to handle the worst. Python Event Sourcing Code Review
+Don't be afraid to give up the good to go for the great. IoT Zero Downtime Deployment Agile RabbitMQ JavaScript Opportunities don't happen. You create them. Testing Cloud Functions Database Indexing
