@@ -13,3 +13,4 @@ Event Sourcing Code Review Performance Quantum Computing Simplicity is the ultim
 Quantum Computing Predictive Analytics Load Balancing Do what you love and the money will follow. Performance Python RabbitMQ UX Optimization Kubernetes
 Simplicity is the ultimate sophistication. Dream big and dare to fail. Container Orchestration Event Sourcing Frontend Pull Request GraphQL Automation Performance Work hard in silence, let your success be your noise. Server Response Serverless Code Review Backend Microservices
 Do what you love and the money will follow. Automation Replica Set Artificial Intelligence Code Review Parallel Processing Innovation distinguishes between a leader and a follower. Python Event Sourcing
+Do what you love and the money will follow. Dream big and dare to fail. Deployment JWT UX Optimization Kafka Big Data Difficult roads often lead to beautiful destinations. Version Control GraphQL API Data Pipeline Docker

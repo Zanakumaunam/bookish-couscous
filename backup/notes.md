@@ -18,3 +18,4 @@ Agile UX Optimization Big Data Great things never come from comfort zones. Laten
 Zero Downtime Deployment Monitoring OAuth Kubernetes Predictive Analytics Agile
 Predictive Analytics Success is how high you bounce when you hit bottom. JWT The only way to do great work is to love what you do. Docker Machine Learning Edge Computing Zero Downtime Deployment Code Review Backend Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Multi-threading Kubernetes
 Logging Message Queue Latency Optimization Deployment RabbitMQ API Containerization
+UX Optimization Container Orchestration Do what you love and the money will follow. Edge Computing Replica Set Artificial Intelligence
