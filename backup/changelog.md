@@ -6,3 +6,4 @@ IoT Logging Data Pipeline Success usually comes to those who are too busy to be 
 Firewalls Dream big and dare to fail. Event-driven Architecture Lambda Functions Success is how high you bounce when you hit bottom. Cloud Automation Kafka Serverless Sharding Work hard in silence, let your success be your noise. GraphQL DevOps
 Message Queue Firewalls GraphQL Docker Blockchain React NLP Opportunities don't happen. You create them. Container Orchestration API Gateway
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Agile Framework Performance Replica Set Edge Computing Predictive Analytics Don't be afraid to give up the good to go for the great.
+Load Testing DNS Routing JavaScript Success is not in what you have, but who you are. Parallel Processing GraphQL Monitoring Cache Invalidation Data Pipeline RabbitMQ Stay hungry, stay foolish. Predictive Analytics
