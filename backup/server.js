@@ -8,3 +8,4 @@ JavaScript I find that the harder I work, the more luck I seem to have. Logging 
 API Zero Downtime Deployment Version Control NLP A/B Testing Frontend Microservices OAuth IoT Logging I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones.
 Optimization Database Indexing DNS Routing Cloud Code Review Python Logging Parallel Processing
 DevOps Dream big and dare to fail. Parallel Processing Monitoring Predictive Analytics OAuth JavaScript To be the best, you must be able to handle the worst. Event Sourcing
+Difficult roads often lead to beautiful destinations. Cloud Functions GraphQL Success is how high you bounce when you hit bottom. Pull Request Monitoring UX Optimization A/B Testing React Happiness is not something ready made. It comes from your own actions. Message Queue Work hard in silence, let your success be your noise. Algorithm Parallel Processing
