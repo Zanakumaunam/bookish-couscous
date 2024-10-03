@@ -17,3 +17,4 @@ Logging Docker Edge Computing Agile Framework Database Indexing Replica Set Cont
 Virtual Machines Zero Downtime Deployment Cloud Functions JavaScript GraphQL Testing
 Firewalls DevOps Cloud Monitoring Kubernetes Containerization DNS Routing Simplicity is the ultimate sophistication. Microservices Artificial Intelligence Multi-threading A/B Testing UX Optimization
 UX Optimization Kubernetes Virtual Machines Version Control Data Pipeline Cache Invalidation Testing Data Science Container Orchestration Dream big and dare to fail. Latency Optimization Optimization The only way to do great work is to love what you do. Python
+Virtual Machines Load Testing Dream big and dare to fail. JavaScript Data Pipeline Frontend Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Big Data Code Review Framework Pull Request Event-driven Architecture Cloud Container Orchestration
