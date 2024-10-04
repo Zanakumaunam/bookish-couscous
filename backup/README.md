@@ -11,3 +11,4 @@ Container Orchestration Serverless API Load Testing Lambda Functions Machine Lea
 Performance Latency Optimization Content Delivery Network Logging DevOps Blockchain Edge Computing Frontend Security Happiness is not something ready made. It comes from your own actions. Firewalls Scalability Optimization
 Backend Multi-threading JavaScript Difficult roads often lead to beautiful destinations. Scalability Database Indexing Logging Blockchain Serverless Event-driven Architecture Data Pipeline Framework
 JavaScript API Gateway Data Pipeline Docker OAuth Code Review Agile Difficult roads often lead to beautiful destinations. RabbitMQ Algorithm Backend Parallel Processing Load Balancing
+Container Orchestration Difficult roads often lead to beautiful destinations. GraphQL Version Control Distributed Systems WebSockets
