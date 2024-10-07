@@ -15,3 +15,4 @@ Success usually comes to those who are too busy to be looking for it. Success is
 Kubernetes Blockchain Cache Invalidation Success is not in what you have, but who you are. Stay hungry, stay foolish. Artificial Intelligence Firewalls
 Logging Docker Edge Computing Agile Framework Database Indexing Replica Set Content Delivery Network
 Virtual Machines Zero Downtime Deployment Cloud Functions JavaScript GraphQL Testing
+Firewalls DevOps Cloud Monitoring Kubernetes Containerization DNS Routing Simplicity is the ultimate sophistication. Microservices Artificial Intelligence Multi-threading A/B Testing UX Optimization

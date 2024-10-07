@@ -13,3 +13,4 @@ Security Pull Request Dream big and dare to fail. Difficult roads often lead to 
 Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Algorithm WebSockets Containerization Serverless
 Load Testing Framework Performance API Message Queue Security
 Server Response Algorithm A/B Testing Kafka Virtual Machines React Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Deployment
+Latency Optimization Neural Networks Content Delivery Network Serverless Pull Request Optimization Blockchain Simplicity is the ultimate sophistication. Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Server Response

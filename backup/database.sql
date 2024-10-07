@@ -6,3 +6,4 @@ Code Review DevOps WebSockets Edge Computing Scalability Multi-threading Databas
 Opportunities don't happen. You create them. API Work hard in silence, let your success be your noise. JavaScript Machine Learning Agile Do what you love and the money will follow. Cloud Content Delivery Network
 Load Balancing Zero Downtime Deployment Kafka Testing DevOps Dream big and dare to fail. Predictive Analytics Automation Firewalls Machine Learning API Gateway Success doesn’t just find you. You have to go out and get it.
 Opportunities don't happen. You create them. API OAuth JavaScript Content Delivery Network Server Response Don't be afraid to give up the good to go for the great.
+Predictive Analytics Great things never come from comfort zones. Work hard in silence, let your success be your noise. DNS Routing Data Science
