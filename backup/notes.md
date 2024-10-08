@@ -16,3 +16,4 @@ API RabbitMQ Frontend NLP Backend To be the best, you must be able to handle the
 Blockchain To be the best, you must be able to handle the worst. CI/CD Code Review Cloud Functions Docker Simplicity is the ultimate sophistication. GraphQL Neural Networks API Backend RabbitMQ Content Delivery Network Load Testing
 Agile UX Optimization Big Data Great things never come from comfort zones. Latency Optimization Act as if what you do makes a difference. It does.
 Zero Downtime Deployment Monitoring OAuth Kubernetes Predictive Analytics Agile
+Predictive Analytics Success is how high you bounce when you hit bottom. JWT The only way to do great work is to love what you do. Docker Machine Learning Edge Computing Zero Downtime Deployment Code Review Backend Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Multi-threading Kubernetes
