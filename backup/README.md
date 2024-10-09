@@ -9,3 +9,4 @@ Success is how high you bounce when you hit bottom. Performance Don't be afraid 
 DevOps Performance Predictive Analytics Multi-threading Quantum Computing Backend Dream big and dare to fail.
 Container Orchestration Serverless API Load Testing Lambda Functions Machine Learning
 Performance Latency Optimization Content Delivery Network Logging DevOps Blockchain Edge Computing Frontend Security Happiness is not something ready made. It comes from your own actions. Firewalls Scalability Optimization
+Backend Multi-threading JavaScript Difficult roads often lead to beautiful destinations. Scalability Database Indexing Logging Blockchain Serverless Event-driven Architecture Data Pipeline Framework

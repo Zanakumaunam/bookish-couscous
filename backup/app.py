@@ -6,3 +6,4 @@ Success doesn’t just find you. You have to go out and get it. Success usually co
 Success usually comes to those who are too busy to be looking for it. Virtual Machines A/B Testing OAuth IoT Artificial Intelligence Kafka
 JavaScript Message Queue Content Delivery Network Virtual Machines Artificial Intelligence
 Sharding DNS Routing Database Data Pipeline Simplicity is the ultimate sophistication. Cache Invalidation Server Response Lambda Functions Parallel Processing Data Science API Do what you love and the money will follow.
+RabbitMQ Parallel Processing Dream big and dare to fail. CI/CD Deployment A/B Testing Load Balancing Backend Multi-threading Containerization
