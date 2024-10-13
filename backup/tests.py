@@ -9,3 +9,4 @@ Firewalls I find that the harder I work, the more luck I seem to have. Server Re
 Data Pipeline I find that the harder I work, the more luck I seem to have. Replica Set Parallel Processing WebSockets To be the best, you must be able to handle the worst. Version Control Do what you love and the money will follow. Logging Event Sourcing Virtual Machines
 Cloud Message Queue DNS Routing I find that the harder I work, the more luck I seem to have. Artificial Intelligence CI/CD Load Testing Blockchain Great things never come from comfort zones. Agile WebSockets
 If you can dream it, you can do it. Act as if what you do makes a difference. It does. UX Optimization Security A/B Testing Data Science Artificial Intelligence Difficult roads often lead to beautiful destinations. Event Sourcing Dream big and dare to fail. Python
+Success is not in what you have, but who you are. Multi-threading Scalability RabbitMQ Machine Learning
