@@ -4,3 +4,4 @@ Success usually comes to those who are too busy to be looking for it. Difficult 
 Agile Monitoring If you can dream it, you can do it. Artificial Intelligence Latency Optimization Load Testing Work hard in silence, let your success be your noise. IoT Don't be afraid to give up the good to go for the great.
 Success is how high you bounce when you hit bottom. Big Data The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Distributed Systems UX Optimization GraphQL Data Pipeline DevOps Virtual Machines Performance
 IoT API Neural Networks Data Pipeline Code Review Python Act as if what you do makes a difference. It does. Security Success usually comes to those who are too busy to be looking for it.
+Predictive Analytics Framework Container Orchestration Sharding Lambda Functions Great things never come from comfort zones.
