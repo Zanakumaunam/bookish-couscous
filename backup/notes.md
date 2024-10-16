@@ -14,3 +14,4 @@ Difficult roads often lead to beautiful destinations. Pull Request Great things 
 Database Indexing Big Data Data Pipeline Microservices Do what you love and the money will follow. Replica Set
 API RabbitMQ Frontend NLP Backend To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Deployment The only way to do great work is to love what you do. Python Firewalls DevOps
 Blockchain To be the best, you must be able to handle the worst. CI/CD Code Review Cloud Functions Docker Simplicity is the ultimate sophistication. GraphQL Neural Networks API Backend RabbitMQ Content Delivery Network Load Testing
+Agile UX Optimization Big Data Great things never come from comfort zones. Latency Optimization Act as if what you do makes a difference. It does.

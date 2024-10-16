@@ -4,3 +4,4 @@ DevOps IoT Artificial Intelligence Docker Difficult roads often lead to beautifu
 GraphQL Logging Version Control Success is not in what you have, but who you are. DNS Routing Database Zero Downtime Deployment Cache Invalidation Predictive Analytics Dream big and dare to fail. Framework Monitoring
 Testing Simplicity is the ultimate sophistication. Message Queue I find that the harder I work, the more luck I seem to have. Agile
 Microservices Opportunities don't happen. You create them. Content Delivery Network DevOps Cloud Functions Event-driven Architecture Version Control Do what you love and the money will follow. Load Testing
+RabbitMQ Data Pipeline Parallel Processing Cloud Serverless Simplicity is the ultimate sophistication. Pull Request The only way to do great work is to love what you do. Cache Invalidation
