@@ -14,3 +14,4 @@ Database Performance API CI/CD Blockchain Distributed Systems RabbitMQ Neural Ne
 Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Blockchain Pull Request Artificial Intelligence Content Delivery Network Message Queue RabbitMQ Cloud
 Kubernetes Blockchain Cache Invalidation Success is not in what you have, but who you are. Stay hungry, stay foolish. Artificial Intelligence Firewalls
 Logging Docker Edge Computing Agile Framework Database Indexing Replica Set Content Delivery Network
+Virtual Machines Zero Downtime Deployment Cloud Functions JavaScript GraphQL Testing

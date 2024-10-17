@@ -13,3 +13,4 @@ Blockchain Logging Cloud IoT Version Control A/B Testing WebSockets Event Sourci
 Difficult roads often lead to beautiful destinations. Pull Request Great things never come from comfort zones. Code Review Act as if what you do makes a difference. It does. Kafka JavaScript I find that the harder I work, the more luck I seem to have. Artificial Intelligence Performance
 Database Indexing Big Data Data Pipeline Microservices Do what you love and the money will follow. Replica Set
 API RabbitMQ Frontend NLP Backend To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise. Deployment The only way to do great work is to love what you do. Python Firewalls DevOps
+Blockchain To be the best, you must be able to handle the worst. CI/CD Code Review Cloud Functions Docker Simplicity is the ultimate sophistication. GraphQL Neural Networks API Backend RabbitMQ Content Delivery Network Load Testing
