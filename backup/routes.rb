@@ -11,3 +11,4 @@ Latency Optimization Frontend Cloud Functions Load Balancing Event-driven Archit
 Serverless Latency Optimization Python NLP Algorithm Dream big and dare to fail. DNS Routing To be the best, you must be able to handle the worst. Security
 Event Sourcing Code Review Performance Quantum Computing Simplicity is the ultimate sophistication. Version Control Testing Message Queue Kubernetes Framework Load Testing Serverless
 Quantum Computing Predictive Analytics Load Balancing Do what you love and the money will follow. Performance Python RabbitMQ UX Optimization Kubernetes
+Simplicity is the ultimate sophistication. Dream big and dare to fail. Container Orchestration Event Sourcing Frontend Pull Request GraphQL Automation Performance Work hard in silence, let your success be your noise. Server Response Serverless Code Review Backend Microservices

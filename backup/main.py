@@ -12,3 +12,4 @@ Kubernetes Latency Optimization Machine Learning Success is how high you bounce 
 Security Pull Request Dream big and dare to fail. Difficult roads often lead to beautiful destinations. React UX Optimization Automation Microservices Cache Invalidation Distributed Systems Version Control
 Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Algorithm WebSockets Containerization Serverless
 Load Testing Framework Performance API Message Queue Security
+Server Response Algorithm A/B Testing Kafka Virtual Machines React Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Deployment
