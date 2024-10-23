@@ -8,3 +8,4 @@ Message Queue Success doesn’t just find you. You have to go out and get it. Grap
 Success is how high you bounce when you hit bottom. Performance Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Containerization Edge Computing Kafka Automation Security Latency Optimization
 DevOps Performance Predictive Analytics Multi-threading Quantum Computing Backend Dream big and dare to fail.
 Container Orchestration Serverless API Load Testing Lambda Functions Machine Learning
+Performance Latency Optimization Content Delivery Network Logging DevOps Blockchain Edge Computing Frontend Security Happiness is not something ready made. It comes from your own actions. Firewalls Scalability Optimization
