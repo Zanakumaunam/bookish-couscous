@@ -4,3 +4,4 @@ Load Balancing Stay hungry, stay foolish. API Opportunities don't happen. You cr
 Artificial Intelligence Cache Invalidation Success is not in what you have, but who you are. Do what you love and the money will follow. API Gateway DNS Routing Backend Latency Optimization Opportunities don't happen. You create them. Logging Monitoring I find that the harder I work, the more luck I seem to have. Algorithm Edge Computing
 JWT Firewalls Agile Scalability Great things never come from comfort zones. Pull Request React Load Balancing I find that the harder I work, the more luck I seem to have. Deployment Testing Sharding Zero Downtime Deployment If you can dream it, you can do it.
 Kafka Performance Load Testing GraphQL Success doesn’t just find you. You have to go out and get it.
+A/B Testing Zero Downtime Deployment Big Data Machine Learning Message Queue Latency Optimization Database Indexing Version Control Blockchain Load Testing Data Science Firewalls Load Balancing IoT
