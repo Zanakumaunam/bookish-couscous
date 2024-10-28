@@ -11,3 +11,4 @@ Algorithm Automation IoT Do what you love and the money will follow. Sharding OA
 Event Sourcing Parallel Processing Cloud UX Optimization Latency Optimization Backend Deployment Dream big and dare to fail.
 Performance Success doesn’t just find you. You have to go out and get it. Content Delivery Network Work hard in silence, let your success be your noise. Message Queue UX Optimization DNS Routing Artificial Intelligence Cloud Event Sourcing
 Database Performance API CI/CD Blockchain Distributed Systems RabbitMQ Neural Networks Success is not in what you have, but who you are. Optimization
+Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Blockchain Pull Request Artificial Intelligence Content Delivery Network Message Queue RabbitMQ Cloud
