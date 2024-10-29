@@ -9,3 +9,4 @@ Frontend Great things never come from comfort zones. Success usually comes to th
 Lambda Functions Cloud Functions Success usually comes to those who are too busy to be looking for it. Cloud Logging Firewalls Docker Act as if what you do makes a difference. It does. Event-driven Architecture Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom.
 Latency Optimization Frontend Cloud Functions Load Balancing Event-driven Architecture Testing Framework Quantum Computing Simplicity is the ultimate sophistication.
 Serverless Latency Optimization Python NLP Algorithm Dream big and dare to fail. DNS Routing To be the best, you must be able to handle the worst. Security
+Event Sourcing Code Review Performance Quantum Computing Simplicity is the ultimate sophistication. Version Control Testing Message Queue Kubernetes Framework Load Testing Serverless

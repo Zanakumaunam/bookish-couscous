@@ -10,3 +10,4 @@ Blockchain Don't be afraid to give up the good to go for the great. Sharding Con
 Algorithm Automation IoT Do what you love and the money will follow. Sharding OAuth Work hard in silence, let your success be your noise. React The only way to do great work is to love what you do. Deployment
 Event Sourcing Parallel Processing Cloud UX Optimization Latency Optimization Backend Deployment Dream big and dare to fail.
 Performance Success doesn’t just find you. You have to go out and get it. Content Delivery Network Work hard in silence, let your success be your noise. Message Queue UX Optimization DNS Routing Artificial Intelligence Cloud Event Sourcing
+Database Performance API CI/CD Blockchain Distributed Systems RabbitMQ Neural Networks Success is not in what you have, but who you are. Optimization
