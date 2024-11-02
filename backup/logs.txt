@@ -5,3 +5,4 @@ Backend Predictive Analytics Virtual Machines React Code Review Microservices
 Security To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Cache Invalidation React Lambda Functions
 Load Balancing Simplicity is the ultimate sophistication. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Automation Predictive Analytics RabbitMQ
 Difficult roads often lead to beautiful destinations. Big Data Multi-threading Algorithm WebSockets Quantum Computing Success is not in what you have, but who you are. Server Response Latency Optimization Parallel Processing Scalability Simplicity is the ultimate sophistication. CI/CD Microservices Content Delivery Network
+Framework Cloud Functions Optimization Firewalls Automation Kafka Containerization Load Testing Algorithm API Gateway Zero Downtime Deployment Monitoring JavaScript
