@@ -5,3 +5,4 @@ Predictive Analytics Performance Machine Learning Success is not in what you hav
 Security Automation Cache Invalidation Content Delivery Network Testing Kubernetes IoT Cloud Artificial Intelligence JWT Cloud Functions
 Work hard in silence, let your success be your noise. Algorithm NLP Lambda Functions If you can dream it, you can do it. Deployment Happiness is not something ready made. It comes from your own actions. Docker
 I find that the harder I work, the more luck I seem to have. Automation Predictive Analytics Database Indexing Success is how high you bounce when you hit bottom. Distributed Systems Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. API Gateway
+Cloud API Big Data RabbitMQ Logging Firewalls CI/CD React Kafka Distributed Systems Version Control Work hard in silence, let your success be your noise.

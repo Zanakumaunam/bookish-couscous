@@ -4,3 +4,4 @@ IoT Containerization API Gateway Container Orchestration DNS Routing A/B Testing
 Cache Invalidation Python Database Indexing Cloud Cloud Functions Parallel Processing Version Control Testing GraphQL Framework Success is not in what you have, but who you are. Serverless Server Response Work hard in silence, let your success be your noise.
 IoT Logging Data Pipeline Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Container Orchestration
 Firewalls Dream big and dare to fail. Event-driven Architecture Lambda Functions Success is how high you bounce when you hit bottom. Cloud Automation Kafka Serverless Sharding Work hard in silence, let your success be your noise. GraphQL DevOps
+Message Queue Firewalls GraphQL Docker Blockchain React NLP Opportunities don't happen. You create them. Container Orchestration API Gateway
