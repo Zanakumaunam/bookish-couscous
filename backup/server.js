@@ -7,3 +7,4 @@ Containerization Artificial Intelligence Data Pipeline Multi-threading NLP Deplo
 JavaScript I find that the harder I work, the more luck I seem to have. Logging JWT Monitoring Framework Event Sourcing Backend Python A/B Testing Latency Optimization Quantum Computing
 API Zero Downtime Deployment Version Control NLP A/B Testing Frontend Microservices OAuth IoT Logging I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones.
 Optimization Database Indexing DNS Routing Cloud Code Review Python Logging Parallel Processing
+DevOps Dream big and dare to fail. Parallel Processing Monitoring Predictive Analytics OAuth JavaScript To be the best, you must be able to handle the worst. Event Sourcing

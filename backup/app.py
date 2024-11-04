@@ -5,3 +5,4 @@ Great things never come from comfort zones. Data Science Opportunities don't hap
 Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. React Scalability Deployment Logging Blockchain
 Success usually comes to those who are too busy to be looking for it. Virtual Machines A/B Testing OAuth IoT Artificial Intelligence Kafka
 JavaScript Message Queue Content Delivery Network Virtual Machines Artificial Intelligence
+Sharding DNS Routing Database Data Pipeline Simplicity is the ultimate sophistication. Cache Invalidation Server Response Lambda Functions Parallel Processing Data Science API Do what you love and the money will follow.
