@@ -6,3 +6,4 @@ Frontend Success is not in what you have, but who you are. OAuth Lambda Function
 Containerization Artificial Intelligence Data Pipeline Multi-threading NLP Deployment Algorithm Neural Networks Success is how high you bounce when you hit bottom. Testing Security Don't be afraid to give up the good to go for the great. WebSockets Kafka
 JavaScript I find that the harder I work, the more luck I seem to have. Logging JWT Monitoring Framework Event Sourcing Backend Python A/B Testing Latency Optimization Quantum Computing
 API Zero Downtime Deployment Version Control NLP A/B Testing Frontend Microservices OAuth IoT Logging I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones.
+Optimization Database Indexing DNS Routing Cloud Code Review Python Logging Parallel Processing
