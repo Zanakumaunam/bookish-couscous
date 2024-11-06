@@ -5,3 +5,4 @@ Predictive Analytics Kafka Security Distributed Systems Work hard in silence, le
 Event Sourcing Artificial Intelligence Event-driven Architecture Data Science Automation If you can dream it, you can do it. Predictive Analytics Security
 Cache Invalidation Event Sourcing IoT Machine Learning The only way to do great work is to love what you do.
 Machine Learning Happiness is not something ready made. It comes from your own actions. Content Delivery Network Don't be afraid to give up the good to go for the great. Distributed Systems Multi-threading Framework GraphQL Load Balancing Container Orchestration DNS Routing Code Review IoT
+Frontend Zero Downtime Deployment Cache Invalidation Docker Server Response If you can dream it, you can do it. Python Load Testing Framework Optimization
