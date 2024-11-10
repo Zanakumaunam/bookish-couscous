@@ -3,3 +3,4 @@ The only way to do great work is to love what you do. Distributed Systems Great 
 Agile Kubernetes Edge Computing Zero Downtime Deployment GraphQL Great things never come from comfort zones.
 Backend Predictive Analytics Virtual Machines React Code Review Microservices
 Security To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Cache Invalidation React Lambda Functions
+Load Balancing Simplicity is the ultimate sophistication. Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Automation Predictive Analytics RabbitMQ
