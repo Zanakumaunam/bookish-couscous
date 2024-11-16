@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Scalabili
 To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Distributed Systems Event-driven Architecture Version Control DevOps
 Blockchain Logging Cloud IoT Version Control A/B Testing WebSockets Event Sourcing Opportunities don't happen. You create them.
 Difficult roads often lead to beautiful destinations. Pull Request Great things never come from comfort zones. Code Review Act as if what you do makes a difference. It does. Kafka JavaScript I find that the harder I work, the more luck I seem to have. Artificial Intelligence Performance
+Database Indexing Big Data Data Pipeline Microservices Do what you love and the money will follow. Replica Set
