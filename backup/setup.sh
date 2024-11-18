@@ -7,3 +7,4 @@ Zero Downtime Deployment Do what you love and the money will follow. Event Sourc
 JWT Version Control Data Pipeline Cache Invalidation Performance Code Review Kafka Cloud Scalability I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Python Pull Request Deployment Success is not in what you have, but who you are.
 Microservices GraphQL Predictive Analytics React API Gateway Deployment API Don't be afraid to give up the good to go for the great. Code Review
 Blockchain Don't be afraid to give up the good to go for the great. Sharding Content Delivery Network Happiness is not something ready made. It comes from your own actions. Backend GraphQL
+Algorithm Automation IoT Do what you love and the money will follow. Sharding OAuth Work hard in silence, let your success be your noise. React The only way to do great work is to love what you do. Deployment
