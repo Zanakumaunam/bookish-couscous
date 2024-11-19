@@ -6,3 +6,4 @@ Container Orchestration Docker Great things never come from comfort zones. Simpl
 Docker Virtual Machines I find that the harder I work, the more luck I seem to have. DNS Routing Dream big and dare to fail. Optimization Code Review To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication.
 To be the best, you must be able to handle the worst. Optimization Cloud Functions Great things never come from comfort zones. A/B Testing Edge Computing OAuth GraphQL Scalability Success doesn’t just find you. You have to go out and get it. Work hard in silence, let your success be your noise.
 React Data Science Event Sourcing Multi-threading Serverless Success is how high you bounce when you hit bottom. Predictive Analytics
+Deployment Innovation distinguishes between a leader and a follower. Framework Cloud Success is how high you bounce when you hit bottom. Zero Downtime Deployment Message Queue Machine Learning
