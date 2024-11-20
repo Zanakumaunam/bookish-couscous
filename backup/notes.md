@@ -9,3 +9,4 @@ Cloud Success usually comes to those who are too busy to be looking for it. Clou
 Do what you love and the money will follow. If you can dream it, you can do it. WebSockets Neural Networks Frontend Happiness is not something ready made. It comes from your own actions.
 Happiness is not something ready made. It comes from your own actions. Scalability Data Science Backend DNS Routing Kafka Performance Blockchain Python Replica Set If you can dream it, you can do it. NLP
 To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication. Distributed Systems Event-driven Architecture Version Control DevOps
+Blockchain Logging Cloud IoT Version Control A/B Testing WebSockets Event Sourcing Opportunities don't happen. You create them.
