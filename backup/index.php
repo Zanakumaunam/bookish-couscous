@@ -3,3 +3,4 @@ Firewalls Difficult roads often lead to beautiful destinations. I find that the 
 Predictive Analytics I find that the harder I work, the more luck I seem to have. Code Review Backend A/B Testing Multi-threading Agile Load Testing
 Latency Optimization Innovation distinguishes between a leader and a follower. Pull Request Security UX Optimization Server Response Containerization Predictive Analytics
 CI/CD If you can dream it, you can do it. Microservices Python A/B Testing Quantum Computing React Pull Request Scalability JWT Virtual Machines Success usually comes to those who are too busy to be looking for it. DevOps API Gateway Success is not in what you have, but who you are.
+If you can dream it, you can do it. Latency Optimization Python Kubernetes Framework Act as if what you do makes a difference. It does. Backend RabbitMQ GraphQL Algorithm Sharding Testing Pull Request Deployment JavaScript

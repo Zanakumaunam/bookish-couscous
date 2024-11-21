@@ -3,3 +3,4 @@ API Stay hungry, stay foolish. Automation Kafka Pull Request Optimization To be 
 Happiness is not something ready made. It comes from your own actions. Firewalls Parallel Processing Quantum Computing Agile Frontend
 Great things never come from comfort zones. Data Science Opportunities don't happen. You create them. Database Indexing Act as if what you do makes a difference. It does. Optimization Data Pipeline Cache Invalidation Container Orchestration
 Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. React Scalability Deployment Logging Blockchain
+Success usually comes to those who are too busy to be looking for it. Virtual Machines A/B Testing OAuth IoT Artificial Intelligence Kafka
