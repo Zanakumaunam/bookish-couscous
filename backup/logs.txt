@@ -2,3 +2,4 @@ Big Data Automation Dream big and dare to fail. Innovation distinguishes between
 The only way to do great work is to love what you do. Distributed Systems Great things never come from comfort zones. Database Do what you love and the money will follow. Backend Agile RabbitMQ Load Balancing Zero Downtime Deployment Optimization Sharding
 Agile Kubernetes Edge Computing Zero Downtime Deployment GraphQL Great things never come from comfort zones.
 Backend Predictive Analytics Virtual Machines React Code Review Microservices
+Security To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Cache Invalidation React Lambda Functions
