@@ -7,3 +7,4 @@ Virtual Machines Serverless A/B Testing Artificial Intelligence API Pull Request
 Simplicity is the ultimate sophistication. Optimization OAuth Sharding Lambda Functions Docker
 Frontend Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Pull Request RabbitMQ Parallel Processing DNS Routing Kafka Kubernetes Serverless Edge Computing JavaScript
 Lambda Functions Cloud Functions Success usually comes to those who are too busy to be looking for it. Cloud Logging Firewalls Docker Act as if what you do makes a difference. It does. Event-driven Architecture Algorithm Multi-threading Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Success is how high you bounce when you hit bottom.
+Latency Optimization Frontend Cloud Functions Load Balancing Event-driven Architecture Testing Framework Quantum Computing Simplicity is the ultimate sophistication.
