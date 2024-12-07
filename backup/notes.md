@@ -7,3 +7,4 @@ CI/CD Security Load Testing Event Sourcing Database Cloud Functions
 Distributed Systems Frontend Kafka Serverless Algorithm
 Cloud Success usually comes to those who are too busy to be looking for it. Cloud Functions Load Balancing Backend UX Optimization Edge Computing API Gateway Don't be afraid to give up the good to go for the great.
 Do what you love and the money will follow. If you can dream it, you can do it. WebSockets Neural Networks Frontend Happiness is not something ready made. It comes from your own actions.
+Happiness is not something ready made. It comes from your own actions. Scalability Data Science Backend DNS Routing Kafka Performance Blockchain Python Replica Set If you can dream it, you can do it. NLP
