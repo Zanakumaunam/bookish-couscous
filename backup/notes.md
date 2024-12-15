@@ -5,3 +5,4 @@ GraphQL Server Response Framework I find that the harder I work, the more luck I
 Don't be afraid to give up the good to go for the great. Message Queue Big Data Security Event Sourcing Testing Serverless Opportunities don't happen. You create them. Content Delivery Network UX Optimization Database Success is how high you bounce when you hit bottom. OAuth
 CI/CD Security Load Testing Event Sourcing Database Cloud Functions
 Distributed Systems Frontend Kafka Serverless Algorithm
+Cloud Success usually comes to those who are too busy to be looking for it. Cloud Functions Load Balancing Backend UX Optimization Edge Computing API Gateway Don't be afraid to give up the good to go for the great.
