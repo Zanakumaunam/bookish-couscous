@@ -4,3 +4,4 @@ Data Science A/B Testing Message Queue Algorithm Load Balancing Data Pipeline Pe
 GraphQL Server Response Framework I find that the harder I work, the more luck I seem to have. Python Microservices CI/CD Do what you love and the money will follow. Stay hungry, stay foolish. The only way to do great work is to love what you do. Testing Lambda Functions Success is not in what you have, but who you are. Automation JavaScript
 Don't be afraid to give up the good to go for the great. Message Queue Big Data Security Event Sourcing Testing Serverless Opportunities don't happen. You create them. Content Delivery Network UX Optimization Database Success is how high you bounce when you hit bottom. OAuth
 CI/CD Security Load Testing Event Sourcing Database Cloud Functions
+Distributed Systems Frontend Kafka Serverless Algorithm
