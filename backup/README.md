@@ -2,3 +2,4 @@ Success is how high you bounce when you hit bottom. Database RabbitMQ Event-driv
 Latency Optimization Neural Networks Success doesn’t just find you. You have to go out and get it. Cloud Functions CI/CD Data Pipeline Container Orchestration Deployment DNS Routing JWT Agile Load Testing If you can dream it, you can do it. Dream big and dare to fail.
 If you can dream it, you can do it. Machine Learning Python Load Testing GraphQL DNS Routing Firewalls Docker Load Balancing API Gateway Container Orchestration Sharding
 Virtual Machines Testing Opportunities don't happen. You create them. Message Queue Artificial Intelligence Backend Framework DevOps JWT Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Firewalls Security Docker Database Indexing
+Predictive Analytics If you can dream it, you can do it. Great things never come from comfort zones. Kafka Difficult roads often lead to beautiful destinations. Deployment Database
