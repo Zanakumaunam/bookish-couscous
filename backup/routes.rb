@@ -4,3 +4,4 @@ Replica Set Dream big and dare to fail. Zero Downtime Deployment Big Data Diffic
 React Optimization Do what you love and the money will follow. Edge Computing Firewalls NLP IoT Code Review Agile Framework Load Balancing Innovation distinguishes between a leader and a follower. Version Control
 Cloud Functions Virtual Machines Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Predictive Analytics Success doesn’t just find you. You have to go out and get it. Data Pipeline Kafka JavaScript API Latency Optimization
 Virtual Machines Serverless A/B Testing Artificial Intelligence API Pull Request NLP The only way to do great work is to love what you do. Cloud Quantum Computing Algorithm Event-driven Architecture Container Orchestration Database GraphQL
+Simplicity is the ultimate sophistication. Optimization OAuth Sharding Lambda Functions Docker
