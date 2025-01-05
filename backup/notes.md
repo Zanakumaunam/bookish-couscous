@@ -1,3 +1,4 @@
 Predictive Analytics Zero Downtime Deployment Testing CI/CD Blockchain Security Automation
 Message Queue Pull Request Container Orchestration Dream big and dare to fail. Data Science Quantum Computing Kubernetes Backend Lambda Functions
 Data Science A/B Testing Message Queue Algorithm Load Balancing Data Pipeline Performance Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Docker Stay hungry, stay foolish. Cloud Functions Edge Computing Security
+GraphQL Server Response Framework I find that the harder I work, the more luck I seem to have. Python Microservices CI/CD Do what you love and the money will follow. Stay hungry, stay foolish. The only way to do great work is to love what you do. Testing Lambda Functions Success is not in what you have, but who you are. Automation JavaScript

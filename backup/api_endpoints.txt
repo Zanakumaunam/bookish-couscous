@@ -1,1 +1,2 @@
 Serverless Sharding Cache Invalidation Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Quantum Computing Data Pipeline Do what you love and the money will follow. RabbitMQ Optimization CI/CD Database
+Monitoring Code Review DevOps Kubernetes Version Control Testing Logging Cloud Agile Containerization Data Pipeline OAuth NLP Optimization
