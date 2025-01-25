@@ -1,3 +1,4 @@
 Algorithm Python Cache Invalidation API Gateway Event Sourcing Agile Multi-threading Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. JWT Opportunities don't happen. You create them. Cloud Functions IoT Sharding
 Microservices Scalability Cloud UX Optimization Quantum Computing Deployment CI/CD Framework Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Testing
 Replica Set Dream big and dare to fail. Zero Downtime Deployment Big Data Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Data Pipeline
+React Optimization Do what you love and the money will follow. Edge Computing Firewalls NLP IoT Code Review Agile Framework Load Balancing Innovation distinguishes between a leader and a follower. Version Control
