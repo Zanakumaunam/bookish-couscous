@@ -1,2 +1,3 @@
 Deployment Blockchain Innovation distinguishes between a leader and a follower. Event Sourcing Simplicity is the ultimate sophistication. Cloud OAuth Act as if what you do makes a difference. It does. Security Edge Computing Success is not in what you have, but who you are. Latency Optimization CI/CD
 Difficult roads often lead to beautiful destinations. Load Balancing RabbitMQ Neural Networks Pull Request Big Data Microservices CI/CD Data Pipeline
+Load Testing Cache Invalidation Serverless Replica Set React Dream big and dare to fail. Microservices RabbitMQ Optimization Testing
