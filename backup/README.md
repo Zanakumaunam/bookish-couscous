@@ -1,1 +1,2 @@
 Success is how high you bounce when you hit bottom. Database RabbitMQ Event-driven Architecture Algorithm Success usually comes to those who are too busy to be looking for it. Kafka Success doesn’t just find you. You have to go out and get it.
+Latency Optimization Neural Networks Success doesn’t just find you. You have to go out and get it. Cloud Functions CI/CD Data Pipeline Container Orchestration Deployment DNS Routing JWT Agile Load Testing If you can dream it, you can do it. Dream big and dare to fail.

@@ -1,2 +1,3 @@
 Server Response Artificial Intelligence Multi-threading Event Sourcing Deployment Framework Quantum Computing Happiness is not something ready made. It comes from your own actions. UX Optimization
 JWT Cache Invalidation Artificial Intelligence Serverless Success usually comes to those who are too busy to be looking for it. WebSockets Data Science Success is how high you bounce when you hit bottom. DevOps
+Simplicity is the ultimate sophistication. Load Balancing Event-driven Architecture Content Delivery Network Optimization Artificial Intelligence To be the best, you must be able to handle the worst. Performance IoT Great things never come from comfort zones. Security Event Sourcing Code Review React
