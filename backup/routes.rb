@@ -1,0 +1,1 @@
+Algorithm Python Cache Invalidation API Gateway Event Sourcing Agile Multi-threading Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. JWT Opportunities don't happen. You create them. Cloud Functions IoT Sharding
